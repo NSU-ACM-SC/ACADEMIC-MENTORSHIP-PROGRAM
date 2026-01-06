@@ -1,4 +1,4 @@
-# NSU ACM SC Academic Mentorship Program Spring 2026
+# NSU ACM SC Academic Mentorship Program - Spring 2026
 
 Welcome to the official GitHub repository for the **Academic Mentorship Program - Spring2026** organized by **Research & Development Group, NSU ACM Student Chapter**. This repository hosts course guides, session materials, coding sessions, and research collaborations led by student mentors.
 
